@@ -1,0 +1,14 @@
+D:\Github2\gitpractfiles\workflow1\workflowdemo\bin\Debug\net6.0\workflowdemo.exe
+D:\Github2\gitpractfiles\workflow1\workflowdemo\bin\Debug\net6.0\workflowdemo.deps.json
+D:\Github2\gitpractfiles\workflow1\workflowdemo\bin\Debug\net6.0\workflowdemo.runtimeconfig.json
+D:\Github2\gitpractfiles\workflow1\workflowdemo\bin\Debug\net6.0\workflowdemo.dll
+D:\Github2\gitpractfiles\workflow1\workflowdemo\bin\Debug\net6.0\workflowdemo.pdb
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.AssemblyInfoInputs.cache
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.AssemblyInfo.cs
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.csproj.CoreCompileInputs.cache
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.dll
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\refint\workflowdemo.dll
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.pdb
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\workflowdemo.genruntimeconfig.cache
+D:\Github2\gitpractfiles\workflow1\workflowdemo\obj\Debug\net6.0\ref\workflowdemo.dll
